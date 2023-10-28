@@ -953,9 +953,7 @@ text-align: center;
   display: flex;
   justify-content: space-between;
 }
-.about4 .background .container{
-  
-}
+
 .about4 .background .container h1{
   margin-top: 105px;
   color: #00ff26;
@@ -1285,8 +1283,7 @@ overflow: hidden;
     color: rgb(210, 19, 19);
     text-decoration: line-through!important;
 }
-.cartsold{
-}
+
 .cartsold .cartsoldimg{
   width: 100%;
     max-width: 390px;
@@ -1677,9 +1674,7 @@ text-decoration: line-through!important;
   .buyheader-content{
     display: block;
   }
-  .buyheader-content .li li{
 
-  }
   .buyheader-content .li{
     margin-left: 0px;
   }
